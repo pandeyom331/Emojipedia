@@ -5,10 +5,10 @@ Created using React.js, CSS and deployed on GitHub.
 <h1> FEATURES -- </h2>
 <p>
     <ul>
-     <li>Have you ever worndered what's the real meaning of the emojis 🤷‍♂️ you are using on whatsapp, twitter, facebook, instagram emojipedia will help you to solve that problem.</li>
+     <li>Have you ever wondered what's the real meaning of the emojis 🤷‍♂️ you are using on WhatsApp, Twitter, Facebook, Instagram, Now emojipedia will help you to solve that problem.</li>
      <li>Real use/ Real meaning of all emojis are mentioned in Emojipedia.</li>
      <li>Also you can Search your emoji out from this big stack of emojis by using the search button.</li>
-     <li>It's reponsive, so you can use it in whatever device you want.</li>
+     <li>It's responsive, so you can use it on whatever device you want.</li>
      <li>Try it out and don't forget to leave a star⭐ 😉.</li>
     </ul>
 </p>
