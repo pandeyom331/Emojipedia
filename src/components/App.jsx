@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import Card from "./Card";
 import emojipedia from "../emojipedia";
+import style from "./App.module.css";
 
 function EmojiData(emojipedia) {
   return (<Card
@@ -29,18 +30,21 @@ function App() {
 
   return (
     <div>
-     <div className="top">
-     <h1>
-        <span>Emojipedia🙂</span>
-      </h1>
-      <input type="text" placeholder="Search Emoji..."
+     <div className={style.top}>
+     <div className = {style.headWrapper}>
+      <h1 className = {style.heading}>Emojipedia</h1>
+      <span className = {style.headEmoji}>🙂</span>
+     </div>
+      
+      <input type="text" placeholder="Search Emoji"
+        className = {style.input}
         onChange={(event) => {
           setSearchTerm(event.target.value);
         }}
       />
      </div>
       
-      <dl className="dictionary">
+      <dl className={style.dictionary}>
         {emojipedia.filter(EmojiDataFilter).map(EmojiData)}
       </dl>
       

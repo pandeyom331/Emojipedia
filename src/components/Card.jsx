@@ -1,16 +1,16 @@
 import React from "react";
+import style from "./Card.module.css";
 
 function Card(props) {
   return (
-    
-      <div className="term">
+      <div className={style.card}>
         <dt>
-          <span className="emoji" role="img" aria-label="Tense Biceps">
+          <span className={style.emoji} role="img" aria-label="Tense Biceps">
             <img src={props.emoji} alt="Emoji"/>
           </span>
-          <span>{props.name}</span>
+          <span className = {style.emojiName}>{props.name}</span>
         </dt>
-        <dd>
+        <dd className = {style.emojiDes}>
           {props.meaning}
         </dd>
       </div>
