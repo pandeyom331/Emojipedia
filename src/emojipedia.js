@@ -11,6 +11,11 @@ const emojipedia = [
     emoji: "https://www.emojimeanings.net/img/emojis/smiling-face-with-open-mouth-and-smiling-eyes_1f604.png?ezimgfmt=ng%3Awebp%2Fngcb26%2Frs%3Adevice%2Frscb26-1",
     name: "Smiling Face With Open Mouth And Smiling Eyes",
     meaning: "😄 Smiling Face With Open Mouth And Smiling Eyes : Smiley's mouth is wide open, its eyes squeezed shut with joy. Laughs loudly, cheerfully and heartily. Only the typical emoji eyes distinguish it from the classical smiley face. Can also be used for sarcasm."
+  },
+  {
+    "emoji": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojipedia/294/saluting-face_1fae1.png",
+    "name" : "Saluting Face",
+    "meaning": "Saluting face: A yellow face with its right hand saluting.\n Used as a sign of respect,to recognise or acknowledge a message,to honour someone or for affirmation"
   }, {
     emoji: "https://www.emojimeanings.net/img/emojis/grinning-face-with-smiling-eyes_1f601.png?ezimgfmt=ng%3Awebp%2Fngcb26%2Frs%3Adevice%2Frscb26-1",
     name: "Grinning Face With Smiling Eyes",
