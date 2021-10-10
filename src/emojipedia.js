@@ -28,6 +28,10 @@ const emojipedia = [
     name: "Face With Tears of Joy",
     meaning: "😂 Face With Tears of Joy : I am laughing to hard that I can hardly keep myself on my chair! Something is so incredibly funny that you cry laughing. Gets the giggles and can hardly contain himself. This emoji is the most popular and was named Word of the Year 2015."
   }, {
+    "emoji": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojipedia/294/saluting-face_1fae1.png",
+    "name" : "Saluting Face",
+    "meaning": "A yellow face with its right hand saluting.\n Used as a sign of respect or as an affirmation.The face has a pair of blank eyes and a very slight smile made by a boat-shaped curve at the bottom."
+  }, {
     emoji: "https://www.emojimeanings.net/img/emojis/smiling-face-with-tear_1f972.png?ezimgfmt=ng%3Awebp%2Fngcb26%2Frs%3Adevice%2Frscb26-1",
     name: "Smiling face with tear",
     meaning: "🥲 Smiling face with tear : Smile, even in difficult times. Instead of being really happy, you smile despite the pain. The real feelings are hidden behind a smile. Someone is going through difficult times or has a lot of problems."
